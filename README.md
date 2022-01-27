@@ -17,14 +17,16 @@ python smgcn_main.py
 
 ## Dataset
 We provide two processed datasets: Herb and Netease.
-Herb:
+
+## Herb:
 * `train.txt`
   * Train file.
   * Each line is 'symptom set\t herb set\n'.
 * `test.txt`
   * Test file.
   * Each line is 'symptom set\t herb set\n'.
-Netease:
+
+## Netease:
 * `user_bundle_train.txt`
   * Train file.
   * Each line is 'userID\t bundleID\n'.
