@@ -1,7 +1,7 @@
 # SMGCN pytorch version
 ## Requirement
 The code has been tested running under Python 3.7.0. The required packages are as follows:
-* torch == 1.2.0
+* torch == 1.10.0
 * numpy == 1.17.4
 * scipy == 1.4.1
 * temsorboardX == 2.0
